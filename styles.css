@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#big{
+.container{
 	border: 3px solid black;
 	display:flex;
 	border-radius:20px;
@@ -8,7 +8,7 @@
 	padding:5px;
 	
 }
-.circle{
+.green, .yellow, .red{
 	width:50px;
 	height:50px;
 	border: 1px;
@@ -16,12 +16,12 @@
 	margin:10px; 
 	
 }
-#green{
+.green{
 	background-color:green;
 }
-#yellow{
+.yellow{
 	background-color:yellow;
 }
-#red{
+.red{
 	background-color:red;
 }
